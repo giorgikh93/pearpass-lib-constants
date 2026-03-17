@@ -48,7 +48,8 @@ export {
   MANIFEST_NAME,
   NATIVE_MESSAGING_BRIDGE_PEAR_LINK_PRODUCTION,
   NATIVE_MESSAGING_BRIDGE_PEAR_LINK_STAGING,
-  EXTENSION_ID
+  EXTENSION_ID,
+  IPC_SOCKET_DIR_NAME
 } from './constants/nativeMessaging'
 
 export { DATE_FORMAT } from './constants/date'
